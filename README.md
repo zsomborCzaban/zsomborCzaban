@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>
+  <strong>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </strong>
+  <p/>
+  <p>You can check out my resume by opening the Resume_en.pdf file(recommended), or just by scrolling down ^^<p/>
+</div>
+
+
+
 # Zsombor Czaban
 
 #### Krööpilänkatu 4C 42B, Turku, 60210
