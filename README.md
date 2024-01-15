@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </strong>
   <p/>
-  <p>You can check out my resume by opening the Resume_en.pdf file(recommended), or just by scrolling down ^^<p/>
+  <p>You can check out my resume by opening the Resume_en.pdf file(recommended) in the Resume repository, or just by scrolling down ^^<p/>
 </div>
 
 
